@@ -1,10 +1,10 @@
-# alura_imersao_web_dev_gemini
+# <h1 align="center"> Seu título aqui </h1>
 Material da imersão Alura AI-Gemini realizado em Setembro de 2024 #imersaoai #alura
 
 
 Título e Imagem de capa;
 <h1 align="center"> Seu título aqui </h1>
-![descrição ](imagem_de_fundo_linkedin.gif)
+![descrição ](imagem_de_fundo_linkedin.png)
 
 Badges;
 
